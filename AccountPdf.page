@@ -1,6 +1,6 @@
 <page
-controller = "Account"
-renderAs = "pdf"
+    controller = "Account"
+      renderAs = "pdf"
 >
     Test
 </page>
