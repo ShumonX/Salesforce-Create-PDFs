@@ -1,6 +1,7 @@
 <page
-    controller = "Account"
-      renderAs = "pdf"
+    standardController = "Account"
+    extension = ""
+    renderAs = "pdf"
 >
     Test
 </page>
